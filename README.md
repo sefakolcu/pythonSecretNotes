@@ -1,2 +1,2 @@
 # pythonSecretNotes
-You can crypt and uncrypt your notes. Every note will be added on text_file.txt 
+This is a simple note cryption and uncryption program maded in python. You have to handle process in GUI which is maded for this. Every note will be added on text_file.txt after you hit crypt or uncrypt button. Also you can use password for extra protection. if you use password for cryption you have to enter password again if you want to uncrypt.
